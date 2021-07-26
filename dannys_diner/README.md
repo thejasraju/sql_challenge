@@ -74,7 +74,7 @@ i)
 ```
 ii)
 ```
-|customer_id| order_date  |	 product_name |	price |	member |  ranking |
+|customer_id| order_date    |	 product_name |	price |	member |  ranking |
 |    A	    | 2021-01-01  |	    curry	    |    15 |	   N   |   null   |
 |    A	    | 2021-01-01  |	    sushi	    |    10 |	   N   |   null   |
 |    A	    | 2021-01-07  |	    curry	    |    15 |	   Y   |   1      |
